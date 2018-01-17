@@ -1,0 +1,2 @@
+agency_phone,agency_fare_url,agency_url,agency_id,agency_name,agency_timezone,agency_lang
+311,http://www.halifax.ca/transit/fares.php,http://www.halifax.ca/transit,Halifax,Halifax Transit,America/Halifax,en

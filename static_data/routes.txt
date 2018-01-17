@@ -1,0 +1,72 @@
+route_long_name,route_type,route_text_color,route_color,agency_id,route_id,route_url,route_desc,route_short_name
+Portland Hills Link,3,000000,7476D9,Halifax,159,,,159
+West Bedford Express,3,000000,7476D9,Halifax,194,,,194
+Tantallon - Sheldrake Lake MetroX,3,000000,7476D9,Halifax,330,,,330
+Eastern Passage - Heritage Hills,3,000000,7476D9,Halifax,60,,,60
+Auburn - North Preston,3,000000,7476D9,Halifax,61,,,61
+Wildwood,3,000000,7476D9,Halifax,62,,,62
+Woodside,3,000000,7476D9,Halifax,63,,,63
+Akerley,3,000000,7476D9,Halifax,64,,,64
+Parkland Express,3,000000,7476D9,Halifax,35,,,35
+Penhorn,3,000000,7476D9,Halifax,66,,,66
+Cherry Brook,3,000000,7476D9,Halifax,68,,,68
+Springfield,3,000000,7476D9,Halifax,83,,,83
+Sackville,3,000000,7476D9,Halifax,80,,,80
+Hemlock Ravine,3,000000,7476D9,Halifax,81,,,81
+Basinview Express,3,000000,7476D9,Halifax,86,,,86
+Glendale,3,000000,7476D9,Halifax,87,,,87
+Glendale Express,3,000000,7476D9,Halifax,84,,,84
+Downsview Express,3,000000,7476D9,Halifax,85,,,85
+Herring Cove,3,000000,7476D9,Halifax,20,,,20
+Lakeside - Timberlea,3,000000,7476D9,Halifax,21,,,21
+Armdale,3,000000,7476D9,Halifax,22,,,22
+Timberlea - Mumford,3,000000,7476D9,Halifax,23,,,23
+Greystone,3,000000,7476D9,Halifax,9A,,,9A
+Millwood,3,000000,7476D9,Halifax,82,,,82
+Herring Cove,3,000000,7476D9,Halifax,9B,,,9B
+Lacewood - Dalhousie,3,000000,7476D9,Halifax,42,,,42
+Barrington,3,000000,7476D9,Halifax,29,,,29
+Dartmouth - Dalhousie,3,000000,7476D9,Halifax,41,,,41
+Spring Garden,3,000000,7476D9,Halifax,1,,,1
+Airport - Fall River MetroX,3,000000,7476D9,Halifax,320,,,320
+Wedgewood,3,000000,7476D9,Halifax,2,,,2
+Chebucto,3,000000,7476D9,Halifax,5,,,5
+Rosedale,3,000000,7476D9,Halifax,4,,,4
+Preston - Porters Lake - Grand Desert,3,000000,7476D9,Halifax,401,,,401
+Quinpool,3,000000,7476D9,Halifax,6,,,6
+Barrington,3,000000,7476D9,Halifax,9,,,9
+Robie,3,000000,7476D9,Halifax,7,,,7
+Beaver Bank,3,000000,7476D9,Halifax,400,,,400
+Sackville Link,3,000000,7476D9,Halifax,185,,,185
+Cowie Hill Express,3,000000,7476D9,Halifax,32,,,32
+Russell Lake,3,000000,7476D9,Halifax,57,,,57
+Glenbourne Express,3,000000,7476D9,Halifax,34,,,34
+Purcells Cove,3,000000,7476D9,Halifax,15,,,15
+Portland Hills,3,000000,7476D9,Halifax,72,,,72
+Woodside Ferry,4,000000,7476D9,Halifax,FerW,,,FerW
+Larry Uteck,3,000000,7476D9,Halifax,90,,,90
+MacKay Bridge Shuttle,3,000000,7476D9,Halifax,mack,,,mack
+Cole Harbour Express,3,000000,7476D9,Halifax,79,,,79
+Mount Edward Express,3,000000,7476D9,Halifax,78,,,78
+Dockyard,3,000000,7476D9,Halifax,11,,,11
+Dalhousie,3,000000,7476D9,Halifax,10,,,10
+Colby,3,000000,7476D9,Halifax,59,,,59
+Woodlawn,3,000000,7476D9,Halifax,58,,,58
+Alderney Ferry,4,000000,7476D9,Halifax,FerD,,,FerD
+Parkland,3,000000,7476D9,Halifax,16,,,16
+Greystone,3,000000,7476D9,Halifax,19,,,19
+Montebello,3,000000,7476D9,Halifax,54,,,54
+Main Express,3,000000,7476D9,Halifax,31,,,31
+Dartmouth Crossing,3,000000,7476D9,Halifax,56,,,56
+Windmill,3,000000,7476D9,Halifax,51,,,51
+Bedford Commons,3,000000,7476D9,Halifax,88,,,88
+Notting Park,3,000000,7476D9,Halifax,53,,,53
+Crosstown,3,000000,7476D9,Halifax,52,,,52
+Tantallon Express,3,000000,7476D9,Halifax,33,,,33
+Port Wallace,3,000000,7476D9,Halifax,55,,,55
+Bedford,3,000000,7476D9,Halifax,89,,,89
+Universities,3,000000,7476D9,Halifax,18,,,18
+Porters Lake MetroX,3,000000,7476D9,Halifax,370,,,370
+Saint Mary's,3,000000,7476D9,Halifax,17,,,17
+Leiblin Park,3,000000,7476D9,Halifax,14,,,14
+Caldwell,3,000000,7476D9,Halifax,65,,,65
